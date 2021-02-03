@@ -13,5 +13,3 @@ const premik = {name:"smart dude", phone:456781};
 
 let fun = undefined;
  console.log(fun);
-
- //null
